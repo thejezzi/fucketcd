@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"encoding/json"
 	"fmt"
-	"fucketcd/util"
+	"github/thejezzi/fucketcd/util"
 	"net/http"
 	"os"
 	"strings"

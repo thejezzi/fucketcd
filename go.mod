@@ -1,4 +1,4 @@
-module fucketcd
+module github/thejezzi/fucketcd
 
 go 1.20
 

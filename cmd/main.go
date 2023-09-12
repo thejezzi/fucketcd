@@ -1,7 +1,7 @@
 package main
 
 import (
-	"fucketcd/cli"
+	"github/thejezzi/fucketcd/cli"
 	"log"
 	"os"
 )
