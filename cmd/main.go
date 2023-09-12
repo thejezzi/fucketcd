@@ -1,9 +1,10 @@
 package main
 
 import (
-	"github/thejezzi/fucketcd/cli"
 	"log"
 	"os"
+
+	"github.com/thejezzi/fucketcd/pkg/cli"
 )
 
 func main() {

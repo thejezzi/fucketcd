@@ -4,11 +4,11 @@ import (
 	"bytes"
 	"encoding/json"
 	"fmt"
-	"github/thejezzi/fucketcd/util"
 	"net/http"
 	"os"
 	"strings"
 
+	"github.com/thejezzi/fucketcd/pkg/util"
 	"github.com/urfave/cli/v2"
 )
 

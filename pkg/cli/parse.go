@@ -1,8 +1,7 @@
 package cli
 
 import (
-	"github/thejezzi/fucketcd/manager"
-
+	"github.com/thejezzi/fucketcd/pkg/manager"
 	"github.com/urfave/cli/v2"
 )
 
